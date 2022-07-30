@@ -33,3 +33,7 @@ footer {
     justify-content: flex-end;
     background-color: var(--footer-background);
 }
+
+.selected-img {
+    width: 200px
+}
