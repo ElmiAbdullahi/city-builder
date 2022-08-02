@@ -8,8 +8,8 @@ const countryImgTag = document.getElementById ('country-img');
 const timesChangedEl = document.getElementById ('times-changed');
 const sloganInputEl = document.getElementById('slogan-input');
 const sloganButton = document.getElementById('slogan-button');
-// console.log('SLOGAN', sloganInputEl, sloganButton, slogansEl);
-s
+
+
 // let state
 let timesWaterChanged = 0;
 let timesCityChanged = 0;
